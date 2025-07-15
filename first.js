@@ -1,5 +1,3 @@
-alert("JavaScript is working!");
-
 let userScore =0;
 let compScore =0;
 
@@ -64,4 +62,3 @@ choices.forEach((choice) => {
         playGame(userChoice);
     } );
 });
-
