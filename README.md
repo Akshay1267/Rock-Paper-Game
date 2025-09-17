@@ -72,4 +72,3 @@ Akshay Jain
 
 💼 LinkedIn
 
-🐙 GitHub
