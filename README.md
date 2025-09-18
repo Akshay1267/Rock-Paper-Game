@@ -1,68 +1,57 @@
-Rock Paper Scissors 🎮✊📄✂️
+🪨📄✂️ Rock Paper Scissors Game
 
-A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
-Players can compete against the computer, which makes random choices.
+[Live Demo](https://rock-paper-game-smoky.vercel.app/) |
+[GitHub Repo](https://github.com/Akshay1267/Rock-Paper-Game)
 
-🚀 Features
 
-🎨 User-friendly interface
+An interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript. Challenge the computer and see the results in real-time.
 
-🤖 Randomized computer choices
+🚀 Live Demo
 
-🏆 Displays result: Win / Lose / Draw
+Experience the game in action:
+👉 https://rock-paper-game-smoky.vercel.app/
 
-📊 Keeps track of scores
+🧩 Features
 
-📱 Responsive design for all devices
+User vs. Computer gameplay
+
+Real-time result display (Win / Lose / Draw)
+
+Responsive and user-friendly interface
+
+Score tracking for each round
 
 🛠️ Technologies Used
 
-HTML5 → Structure of the game
+HTML5 – Game structure
 
-CSS3 → StylinJavaScript (ES6) → Game logic & interactivity
+CSS3 – Styling and layout
+
+JavaScript (ES6) – Game logic and interactivity
 
 🎮 How to Play
 
 Open the game in your browser.
 
-Choose Rock, Paper, or Scissors.
+Click on Rock, Paper, or Scissors to make your move.
 
-The computer will also choose randomly.
+The computer will randomly select its choice.
 
-The winner is decided based on the classic rules:
+The winner will be displayed instantly.
 
-✊ Rock beats Scissors
+📁 Project Structure
+├── index.html       # Game interface
+├── design.css       # Styling and layout
+├── first.js         # Game logic and interactivity
+└── README.md        # Project documentation
 
-✂️ Scissors beats Paper
+👤 Author
 
-📄 Paper beats Rock
+Akshay Kumar
+GitHub: @Akshay1267
 
-The score will update after each round.
+📄 License
 
-📂 Project Structure
-rock-paper-scissors/
-│── index.html   # Main HTML file
-│── style.css    # Styling
-│── script.js    # Game logic
-│── README.md    # Documentation
+This project is licensed under the MIT License.
 
-⚡ Getting Started
-1. Clone this repository:
-git clone https://github.com/Akshay1267/Rock-Paper-Game.git
-
-2. Open the project folder and run:
-
-Open index.html in your browser.
-
-📌 Future Improvements
-
-🔊 Add sound effects
-
-🌙 Add Dark/Light mode toggle
-
-👨‍💻 Author
-
-Akshay Jain
-
-💼 LinkedIn
-
+Feel free to clone, fork, or contribute to this project. Enjoy playing! 🎉
