@@ -19,9 +19,7 @@ Players can compete against the computer, which makes random choices.
 
 HTML5 → Structure of the game
 
-CSS3 → Styling and layout
-
-JavaScript (ES6) → Game logic & interactivity
+CSS3 → StylinJavaScript (ES6) → Game logic & interactivity
 
 🎮 How to Play
 
