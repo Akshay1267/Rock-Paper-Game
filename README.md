@@ -60,10 +60,6 @@ Open index.html in your browser.
 
 🔊 Add sound effects
 
-🎨 Add animations
-
-👥 Multiplayer mode (player vs player)
-
 🌙 Add Dark/Light mode toggle
 
 👨‍💻 Author
